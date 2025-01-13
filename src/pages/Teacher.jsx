@@ -34,7 +34,6 @@ const Teacher = () => {
 
 // onClick={()=>navigate(`/teacher/${kisi.id}`, {state:{kisi}})}
 onClick={()=>navigate(`/teacher/${kisi.id}`)}
-// 
 
               />
               <h5>{kisi.name}</h5>
